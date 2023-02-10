@@ -6,6 +6,6 @@ Aplicación de técnicas de clustering para ventas generadas por la plataforma d
 
 ## Autor 
 
-**Diana Luis **
+***Diana Luis***
 
 * [LinkendIn](https://www.linkedin.com/in/diana-luis-253014257/)
